@@ -19,5 +19,3 @@ While the traditional Pomodoro interval is 25 minutes, individuals can adjust th
 
 The app features a simple but appealing GUI, a buzzer sound that informs users of each Pomodoro round, and a pop-up notification at the end of each Pomodoro.
 Enjoy.
-# Trivia-Quizz
-# Trivia-Quizz
