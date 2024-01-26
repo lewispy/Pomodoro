@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/lewispy/Pomodoro/blob/main/pomodoro-icon.png"></p>
+<p align="center"><img width=200 height=340 src="https://github.com/lewispy/Pomodoro/blob/main/pomodoro-icon.png"></p>
 
 ##
 # Pomodoro
