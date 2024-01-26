@@ -1,3 +1,6 @@
+<p align="center"><img src="https://github.com/lewispy/Pomodoro/blob/main/pomodoro-icon.png"></p>
+
+##
 # Pomodoro
 This app simulates the "Pomodoro technique" of Francesco Cirillo using the tkinter python module. is named after the Italian word for "tomato" because the technique was initially inspired by a tomato-shaped kitchen timer that Cirillo used during university. The technique is designed to improve productivity and focus by breaking work into intervals, traditionally 25 minutes in length, separated by short breaks.
 
